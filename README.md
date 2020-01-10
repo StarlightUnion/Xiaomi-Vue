@@ -6,7 +6,7 @@
 
 * 项目没有用到API，图片等静态资源都是直接引用官网的，如果图片原地址更改，那么部分图片可能存在**无法加载**的情况。所有的动画效果都是纯手写的。
 
-* 项目预览地址：[请点这里](https://starlightunion.github.io/xiaomi/dist/index.html#/)
+* 项目预览地址：[请点这里](https://starlightunion.github.io/Xiaomi-Vue/dist/index.html#/)
 
 > ### 学习到的内容
 
