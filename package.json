@@ -14,8 +14,8 @@
     "vue-router": "^3.0.3"
   },
   "devDependencies": {
-    "@vue/cli-plugin-babel": "^3.8.0",
-    "@vue/cli-service": "^3.8.0",
+    "@vue/cli-plugin-babel": "^5.0.8",
+    "@vue/cli-service": "^5.0.8",
     "less": "^3.0.4",
     "less-loader": "^4.1.0",
     "vue-cli-plugin-fontawesome": "^0.2.0",
